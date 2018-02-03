@@ -1,0 +1,46 @@
+{
+	"name": "farben",
+	"version": "0.0.0",
+	"description": "Easily add some color to your cli",
+	"license": "MIT",
+	"repository": "herber/farben",
+	"author": {
+		"name": "Tobias Herber",
+		"email": "tobihrbr@gmail.com",
+		"url": "tobihrbr.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "formatted && jest"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"farben",
+		"farbe",
+		"color",
+		"text",
+		"cli",
+		"chalk",
+		"ansi",
+		"escape"
+	],
+	"dependencies": {
+		"ansi-escape-sequences": "^4.0.0"
+	},
+	"devDependencies": {
+		"formatted": "^1.0.0",
+		"jest": "^22.1.4"
+	},
+	"jest": {
+		"collectCoverage": true,
+		"coverageDirectory": "./coverage",
+		"coverageReporters": [
+			"lcov",
+			"text"
+		]
+	}
+}
