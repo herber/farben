@@ -29,7 +29,7 @@
 		"escape"
 	],
 	"dependencies": {
-		"ansi-escape-sequences": "^4.0.0"
+		"ansi-format": "^1.0.0"
 	},
 	"devDependencies": {
 		"codecov": "^3.0.0",
