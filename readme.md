@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  A small library for adding some __color__ to your CLIs.
+  A small library for adding some <b>color</b> to your CLIs.
 </p>
 
 ## Install
