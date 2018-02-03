@@ -1,6 +1,6 @@
 {
 	"name": "farben",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Easily add some color to your cli",
 	"license": "MIT",
 	"repository": "herber/farben",
